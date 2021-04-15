@@ -1,0 +1,13 @@
+body {
+    background-color:maroon;
+}
+
+div#test{
+    border:#b05429 3px solid;
+    padding:10px 40px 40px 40px;
+    background-color:goldenrod;
+    width:50%;}
+
+.timer {
+  float: right;
+}
